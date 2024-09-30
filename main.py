@@ -125,7 +125,7 @@ async def get_form():
         </head>
         <body>
             <div class="container">
-                <h2>Talgar's SHOP!!</h2>
+                <h2>Talgarr's SHOP!!</h2>
                 <div class="products">
                     {product_cards}
                 </div>
